@@ -1,6 +1,6 @@
 import React from 'react';
 
-const StartGameButton = (props) => {
+const StartGameButton = () => {
   return ( <p className="start-game-button">Start Game!</p> );
 }
  

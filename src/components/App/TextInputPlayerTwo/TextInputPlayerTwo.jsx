@@ -1,6 +1,6 @@
 import React from "react";
 
-const TextInput = (props) => {
+const TextInput = () => {
   return (
     <div>
       <p className="input-label">
